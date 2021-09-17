@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url('ps.jpg');
+  background: url('https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -90,7 +90,7 @@ h1 {
 
 .split.right {
   right: 0;
-  background: url('xbox.jpg');
+  background: url('https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/people_foods_cats_can_eat_slideshow/1800x1200_people_foods_cats_can_eat_slideshow.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
